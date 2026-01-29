@@ -1,5 +1,5 @@
-# ExpenseTracker
-The Expense Tracker project aims to provide users with a convenient way to track their expenses. The project addresses the common problem of individuals and businesses needing to monitor and manage their spending habits. By developing an expense tracking application, users can easily record and analyse their expenses, helping them make informed financial decisions.
+# User-Based Expense Tracking System
+The project aims to provide users with a convenient way to track their expenses. The project addresses the common problem of individuals and businesses needing to monitor and manage their spending habits. By developing an expense tracking application, users can easily record and analyse their expenses, helping them make informed financial decisions.
 ## Features
 **1) User Registration and Login:** The project implemented a user registration and login system using ASP.NET MVC. Users can create an account with a unique username, password, and email. Password and email validation rules were enforced to ensure security and proper formatting.
 
